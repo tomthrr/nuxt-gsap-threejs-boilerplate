@@ -1,0 +1,10 @@
+@import 'reset';
+
+html,
+body {
+  font-family: Inter, sans-serif;
+  height: 100vh;
+  background-color: $white;
+
+  scroll-behavior: smooth;
+}
